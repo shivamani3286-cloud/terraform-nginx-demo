@@ -6,6 +6,10 @@ complete AWS network and an Nginx web server.
 This project **does not depend on the AWS default VPC or default subnet**.
 Terraform creates its own VPC and networking.
 
+<p align="center">
+  <img src="image.png" alt="result-capture" width="100%">
+</p>
+
 ## Architecture
 
 ```text
